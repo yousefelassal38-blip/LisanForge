@@ -1,7 +1,7 @@
 ﻿{
     "schemaVersion":  3,
     "repository":  "yousefelassal38-blip/LisanForge",
-    "updatedUtc":  "2026-10-03T00:42:00.5938600Z",
+    "updatedUtc":  "2026-10-03T00:46:04.5636679Z",
     "targets":  [
                     {
                         "schemaVersion":  3,
@@ -133,7 +133,7 @@
                         "permissionRecord":  "Permission to use and publish was relayed by Youssef from the file owner; no independent license text was supplied.",
                         "metadataAuthority":  "embedded-manifest",
                         "releaseTag":  "capability-packs",
-                        "publishedUtc":  "2026-10-03T00:42:00.5938600Z"
+                        "publishedUtc":  "2026-10-03T00:46:04.5586484Z"
                     }
                 ]
 }
