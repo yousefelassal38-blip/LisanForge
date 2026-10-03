@@ -1,8 +1,52 @@
 ﻿{
     "schemaVersion":  3,
     "repository":  "yousefelassal38-blip/LisanForge",
-    "updatedUtc":  "2026-10-02T23:27:46.0076475Z",
+    "updatedUtc":  "2026-10-03T00:42:00.5938600Z",
     "targets":  [
+                    {
+                        "schemaVersion":  3,
+                        "id":  "lisanforge.unity.runtime.legacy",
+                        "version":  "1.0.0",
+                        "kind":  "RuntimeAdapter",
+                        "fileName":  "lisanforge.unity.runtime.legacy-1.0.0.zip",
+                        "size":  1005,
+                        "sha256":  "759fd63c3c3aef8672e04ad3b6aaffdf4e0097dde95bc7c7aab43e67830798f3",
+                        "url":  "https://github.com/yousefelassal38-blip/LisanForge/releases/download/capability-packs/lisanforge.unity.runtime.legacy-1.0.0.zip",
+                        "compatibilityFamily":  "Legacy Unity Mono CLR",
+                        "engine":  "Unity",
+                        "renderer":  "TextMeshPro/UGUI",
+                        "runtimeRequirements":  "net35-compatible CLR; Mono only",
+                        "dependencies":  [
+
+                                         ],
+                        "source":  "GitHub-first design record; binary not yet proven",
+                        "permissionRecord":  "No third-party payload included",
+                        "metadataAuthority":  "embedded-manifest",
+                        "releaseTag":  "capability-packs",
+                        "publishedUtc":  "2026-10-02T23:27:46.0076475Z"
+                    },
+                    {
+                        "schemaVersion":  3,
+                        "id":  "lisanforge.unity.runtime.modern",
+                        "version":  "1.1.0",
+                        "kind":  "RuntimeAdapter",
+                        "fileName":  "lisanforge.unity.runtime.modern-1.1.0.zip",
+                        "size":  21565525,
+                        "sha256":  "eaab6ee9844d3593930e0dee6b5e01e5484fe92cf9677c77c885bd762f44c238",
+                        "url":  "https://github.com/yousefelassal38-blip/LisanForge/releases/download/capability-packs/lisanforge.unity.runtime.modern-1.1.0.zip",
+                        "compatibilityFamily":  "auto",
+                        "engine":  "auto",
+                        "renderer":  "auto",
+                        "runtimeRequirements":  "auto",
+                        "dependencies":  [
+
+                                         ],
+                        "source":  "Selected by LisanForge Pack Publisher",
+                        "permissionRecord":  "Publisher did not infer legal permission; repository owner must ensure distribution rights.",
+                        "metadataAuthority":  "automatic",
+                        "releaseTag":  "capability-packs",
+                        "publishedUtc":  "2026-10-02T23:27:46.0076475Z"
+                    },
                     {
                         "schemaVersion":  3,
                         "id":  "lisanforge.unity.tmp.2018",
@@ -89,51 +133,7 @@
                         "permissionRecord":  "Permission to use and publish was relayed by Youssef from the file owner; no independent license text was supplied.",
                         "metadataAuthority":  "embedded-manifest",
                         "releaseTag":  "capability-packs",
-                        "publishedUtc":  "2026-10-02T23:27:45.9996952Z"
-                    },
-                    {
-                        "schemaVersion":  3,
-                        "id":  "lisanforge.unity.runtime.modern",
-                        "version":  "1.1.0",
-                        "kind":  "RuntimeAdapter",
-                        "fileName":  "lisanforge.unity.runtime.modern-1.1.0.zip",
-                        "size":  21565525,
-                        "sha256":  "eaab6ee9844d3593930e0dee6b5e01e5484fe92cf9677c77c885bd762f44c238",
-                        "url":  "https://github.com/yousefelassal38-blip/LisanForge/releases/download/capability-packs/lisanforge.unity.runtime.modern-1.1.0.zip",
-                        "compatibilityFamily":  "auto",
-                        "engine":  "auto",
-                        "renderer":  "auto",
-                        "runtimeRequirements":  "auto",
-                        "dependencies":  [
-
-                                         ],
-                        "source":  "Selected by LisanForge Pack Publisher",
-                        "permissionRecord":  "Publisher did not infer legal permission; repository owner must ensure distribution rights.",
-                        "metadataAuthority":  "automatic",
-                        "releaseTag":  "capability-packs",
-                        "publishedUtc":  "2026-10-02T23:27:46.0076475Z"
-                    },
-                    {
-                        "schemaVersion":  3,
-                        "id":  "lisanforge.unity.runtime.legacy",
-                        "version":  "1.0.0",
-                        "kind":  "RuntimeAdapter",
-                        "fileName":  "lisanforge.unity.runtime.legacy-1.0.0.zip",
-                        "size":  1005,
-                        "sha256":  "759fd63c3c3aef8672e04ad3b6aaffdf4e0097dde95bc7c7aab43e67830798f3",
-                        "url":  "https://github.com/yousefelassal38-blip/LisanForge/releases/download/capability-packs/lisanforge.unity.runtime.legacy-1.0.0.zip",
-                        "compatibilityFamily":  "Legacy Unity Mono CLR",
-                        "engine":  "Unity",
-                        "renderer":  "TextMeshPro/UGUI",
-                        "runtimeRequirements":  "net35-compatible CLR; Mono only",
-                        "dependencies":  [
-
-                                         ],
-                        "source":  "GitHub-first design record; binary not yet proven",
-                        "permissionRecord":  "No third-party payload included",
-                        "metadataAuthority":  "embedded-manifest",
-                        "releaseTag":  "capability-packs",
-                        "publishedUtc":  "2026-10-02T23:27:46.0076475Z"
+                        "publishedUtc":  "2026-10-03T00:42:00.5938600Z"
                     }
                 ]
 }
